@@ -47,6 +47,8 @@ The web page report includes:
 
 You can also choose a plain text (`.txt`) or Markdown (`.md`) report instead.
 
+<img width="1677" height="938" alt="image" src="https://github.com/user-attachments/assets/05165d71-d57f-436a-b1c8-2b18af655511" />
+
 ---
 
 ## Requirements
